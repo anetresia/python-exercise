@@ -15,3 +15,9 @@ b=6
 print(b)
 c=None
 print(c) 
+
+
+x=10
+y=0
+print(y/x)
+print(x/y) # division by zero error
